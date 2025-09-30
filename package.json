@@ -1,0 +1,20 @@
+{
+  "name": "instagram-auto-liker",
+  "version": "1.0.0",
+  "description": "Automated Instagram hashtag liker using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "instagram",
+    "automation",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "puppeteer-core": "^24.22.3"
+  }
+}
